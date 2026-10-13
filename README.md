@@ -9,6 +9,8 @@ Brazilian Olist marketplace data, September 2016–August 2018. Project stack: P
 
 > **Publication status:** This package contains the dashboard showcase and case-study summary. The Python/SQL source, validation exports and Power BI `.pbix` are not included in this publication yet. The latest project handover reports Python–DAX reconciliation complete; PostgreSQL execution remains pending.
 
+> **Meesho Business Management evidence:** [Verified KPI definitions, reproducible findings, decision recommendations and limitations](docs/RECRUITER_VERIFICATION.md). The submitted-resume claims (96,478 orders, 3.00% repeat purchasing, 12,607 at-risk buyers, 33.7% of revenue from high-value orders, 32.4% negative reviews from late deliveries) have been independently rechecked against the project's local source and saved DAX validation results. No realized business uplift is claimed.
+
 ## Executive overview
 
 ![Executive overview — marketplace revenue, order trends, category concentration and business priorities](dashboard/screenshots/01_executive_overview.png)
